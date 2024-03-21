@@ -1,16 +1,8 @@
-0x00. Fix my code
+Background Context
+Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!
 
-Task 00:(0-fizzbuzz.py)
-implementation of FizzBuzz in Python
+Sometimes you will know the language, sometimes not.
 
-Task 01:(1-print_square.js)
-implementation of printing a square in Javascript
+Please download the repository 0x00-Fix_My_Code_Challenge and use it as initial files for all solutions.
 
-Task 02:(2-sort.rb)
-implementation of sorting arguments in Ruby
-
-Task 03:(3-user.py)
-implementation of a User class in Python
-
-Task 04:(4-delete_dnodeint/)
-implementation of a Double linked list in C
+You should not recode everything, just fix it!
