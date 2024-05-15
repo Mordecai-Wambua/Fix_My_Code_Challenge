@@ -27,6 +27,7 @@ class Square():
 
 
 if __name__ == "__main__":
+    """Instantiation of class."""
 
     s = Square(width=12, height=9)
     print(s)
